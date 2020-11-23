@@ -1301,3 +1301,112 @@ JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9
 JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606120491051	geckodriver	INFO	Listening on 127.0.0.1:54563
+1606120492054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledUp4QJ"
+*** You are running in headless mode.
+
+(firefox:8036): Gtk-WARNING **: 16:34:52.097: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606120495347	Marionette	INFO	Listening on port 38691
+1606120495415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606120545420	geckodriver	INFO	Listening on 127.0.0.1:40477
+1606120545429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezEka4E"
+*** You are running in headless mode.
+
+(firefox:8350): Gtk-WARNING **: 16:35:45.476: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606120548096	Marionette	INFO	Listening on port 46839
+1606120548173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606120603287	geckodriver	INFO	Listening on 127.0.0.1:42011
+1606120603300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoM384"
+
+(firefox:8701): Gtk-WARNING **: 16:36:43.344: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 16:36:43.422: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:8877): Gtk-WARNING **: 16:36:44.434: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 16:36:44.507: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:8895): Gtk-WARNING **: 16:36:44.605: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 16:36:44.670: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8970): Gtk-WARNING **: 16:36:45.902: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 16:36:45.955: Failed to load module "appmenu-gtk-module"
+1606120605997	Marionette	INFO	Listening on port 35505
+1606120606036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606120624498	Marionette	INFO	Stopped listening on port 35505
+1606120886086	geckodriver	INFO	Listening on 127.0.0.1:55933
+1606120886106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehuAGGD"
+*** You are running in headless mode.
+
+(firefox:9703): Gtk-WARNING **: 16:41:26.155: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606120889040	Marionette	INFO	Listening on port 38329
+1606120889144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606120897212	geckodriver	INFO	Listening on 127.0.0.1:44449
+1606120897221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq7LXUs"
+*** You are running in headless mode.
+
+(firefox:10025): Gtk-WARNING **: 16:41:37.257: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606120899819	Marionette	INFO	Listening on port 40275
+1606120899856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606122119828	geckodriver	INFO	Listening on 127.0.0.1:34339
+1606122120829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejkbD8N"
+*** You are running in headless mode.
+
+(firefox:1161): Gtk-WARNING **: 17:02:00.859: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606122122669	Marionette	INFO	Listening on port 45521
+1606122122758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606126646886	geckodriver	INFO	Listening on 127.0.0.1:47325
+1606126647890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVSAf7k"
+*** You are running in headless mode.
+
+(firefox:1614): Gtk-WARNING **: 18:17:27.931: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606126650858	Marionette	INFO	Listening on port 45275
+1606126650955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

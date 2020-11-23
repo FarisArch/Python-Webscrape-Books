@@ -1,0 +1,1303 @@
+1606055346402	geckodriver	INFO	Listening on 127.0.0.1:49777
+1606055346409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVsyk4I"
+
+(firefox:33445): Gtk-WARNING **: 22:29:06.448: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:29:06.500: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:33622): Gtk-WARNING **: 22:29:07.505: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:29:07.575: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:33637): Gtk-WARNING **: 22:29:07.679: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:29:07.740: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:33710): Gtk-WARNING **: 22:29:08.807: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:29:08.867: Failed to load module "appmenu-gtk-module"
+1606055348901	Marionette	INFO	Listening on port 40377
+1606055348965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606055351774	Marionette	INFO	Stopped listening on port 40377
+1606055627740	geckodriver	INFO	Listening on 127.0.0.1:49997
+1606055627747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXraykr"
+
+(firefox:34160): Gtk-WARNING **: 22:33:47.780: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:33:47.832: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:34354): Gtk-WARNING **: 22:33:48.631: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:33:48.695: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:34369): Gtk-WARNING **: 22:33:48.766: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:33:48.820: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34441): Gtk-WARNING **: 22:33:49.809: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606055629867	Marionette	INFO	Listening on port 43509
+Gtk-Message: 22:33:49.900: Failed to load module "appmenu-gtk-module"
+1606055629982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606055700209	geckodriver	INFO	Listening on 127.0.0.1:43569
+1606055700214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0UlXAh"
+
+(firefox:34583): Gtk-WARNING **: 22:35:00.244: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:35:00.285: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:34770): Gtk-WARNING **: 22:35:01.041: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:35:01.120: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:34785): Gtk-WARNING **: 22:35:01.175: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:35:01.232: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34855): Gtk-WARNING **: 22:35:02.165: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606055702195	Marionette	INFO	Listening on port 42841
+Gtk-Message: 22:35:02.230: Failed to load module "appmenu-gtk-module"
+1606055702249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606055765595	Marionette	INFO	Stopped listening on port 43509
+1606055773576	Marionette	INFO	Stopped listening on port 42841
+1606055779706	geckodriver	INFO	Listening on 127.0.0.1:54337
+1606055779712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK4QJR7"
+
+(firefox:34995): Gtk-WARNING **: 22:36:19.742: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:36:19.782: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:35172): Gtk-WARNING **: 22:36:20.548: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:36:20.610: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:35189): Gtk-WARNING **: 22:36:20.694: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:36:20.751: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:35260): Gtk-WARNING **: 22:36:21.689: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606055781738	Marionette	INFO	Listening on port 38133
+Gtk-Message: 22:36:21.744: Failed to load module "appmenu-gtk-module"
+1606055781843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606055830789	Marionette	INFO	Stopped listening on port 38133
+1606055880675	geckodriver	INFO	Listening on 127.0.0.1:46423
+1606055880681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXFZTee"
+
+(firefox:35490): Gtk-WARNING **: 22:38:00.711: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:38:00.770: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:35656): Gtk-WARNING **: 22:38:01.548: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:38:01.610: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:35671): Gtk-WARNING **: 22:38:01.686: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:38:01.740: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:35746): Gtk-WARNING **: 22:38:02.661: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606055882688	Marionette	INFO	Listening on port 46021
+Gtk-Message: 22:38:02.721: Failed to load module "appmenu-gtk-module"
+1606055882822	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606055916217	Marionette	INFO	Stopped listening on port 46021
+1606056139811	geckodriver	INFO	Listening on 127.0.0.1:36011
+1606056139817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepzrg7q"
+
+(firefox:36225): Gtk-WARNING **: 22:42:19.866: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:42:19.939: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:36398): Gtk-WARNING **: 22:42:20.927: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:42:21.003: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:36414): Gtk-WARNING **: 22:42:21.117: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:42:21.207: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:36486): Gtk-WARNING **: 22:42:22.414: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606056142474	Marionette	INFO	Listening on port 36629
+Gtk-Message: 22:42:22.487: Failed to load module "appmenu-gtk-module"
+1606056142576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606056191862	geckodriver	INFO	Listening on 127.0.0.1:57687
+1606056191868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZuFouI"
+
+(firefox:36603): Gtk-WARNING **: 22:43:11.904: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:11.969: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:36778): Gtk-WARNING **: 22:43:12.947: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:12.995: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:36796): Gtk-WARNING **: 22:43:13.127: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:13.207: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:36911): Gtk-WARNING **: 22:43:14.362: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:14.414: Failed to load module "appmenu-gtk-module"
+1606056194440	Marionette	INFO	Listening on port 40283
+1606056194508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606056215649	geckodriver	INFO	Listening on 127.0.0.1:45533
+1606056215655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRtNIYu"
+
+(firefox:36995): Gtk-WARNING **: 22:43:35.686: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:35.726: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:37156): Gtk-WARNING **: 22:43:36.510: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:36.574: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:37172): Gtk-WARNING **: 22:43:36.662: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:43:36.747: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37247): Gtk-WARNING **: 22:43:38.126: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606056218182	Marionette	INFO	Listening on port 34337
+Gtk-Message: 22:43:38.189: Failed to load module "appmenu-gtk-module"
+1606056218322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606056240842	Marionette	INFO	Stopped listening on port 34337
+1606056241737	Marionette	INFO	Stopped listening on port 40283
+1606056242745	Marionette	INFO	Stopped listening on port 36629
+1606056337625	geckodriver	INFO	Listening on 127.0.0.1:52745
+1606056337631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMYXM8p"
+
+(firefox:37420): Gtk-WARNING **: 22:45:37.661: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:45:37.702: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:37600): Gtk-WARNING **: 22:45:38.472: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:45:38.537: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:37615): Gtk-WARNING **: 22:45:38.611: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:45:38.673: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37693): Gtk-WARNING **: 22:45:39.621: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606056339658	Marionette	INFO	Listening on port 43465
+Gtk-Message: 22:45:39.680: Failed to load module "appmenu-gtk-module"
+1606056339759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606056421384	Marionette	INFO	Stopped listening on port 43465
+1606056468373	geckodriver	INFO	Listening on 127.0.0.1:53257
+1606056468379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevc8RCj"
+
+(firefox:37914): Gtk-WARNING **: 22:47:48.411: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:47:48.461: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:38103): Gtk-WARNING **: 22:47:49.324: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:47:49.374: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:38120): Gtk-WARNING **: 22:47:49.460: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:47:49.533: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38194): Gtk-WARNING **: 22:47:50.553: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606056470583	Marionette	INFO	Listening on port 33495
+Gtk-Message: 22:47:50.612: Failed to load module "appmenu-gtk-module"
+1606056470638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606056560527	Marionette	INFO	Stopped listening on port 33495
+1606056949550	geckodriver	INFO	Listening on 127.0.0.1:37103
+1606056949556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemkP79y"
+
+(firefox:39016): Gtk-WARNING **: 22:55:49.601: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:55:49.667: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:39187): Gtk-WARNING **: 22:55:50.627: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:55:50.698: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:39202): Gtk-WARNING **: 22:55:50.781: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:55:50.857: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:39274): Gtk-WARNING **: 22:55:52.067: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:55:52.117: Failed to load module "appmenu-gtk-module"
+1606056952126	Marionette	INFO	Listening on port 34689
+1606056952206	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606057000134	Marionette	INFO	Stopped listening on port 34689
+1606057002266	geckodriver	INFO	Listening on 127.0.0.1:35867
+1606057002285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6YHWVJ"
+
+(firefox:39382): Gtk-WARNING **: 22:56:42.342: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:56:42.383: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:39553): Gtk-WARNING **: 22:56:43.135: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:56:43.181: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:39568): Gtk-WARNING **: 22:56:43.262: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:56:43.345: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:39636): Gtk-WARNING **: 22:56:44.212: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606057004242	Marionette	INFO	Listening on port 41183
+Gtk-Message: 22:56:44.283: Failed to load module "appmenu-gtk-module"
+1606057004319	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606057172356	geckodriver	INFO	Listening on 127.0.0.1:33993
+1606057172361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMZwmX8"
+
+(firefox:39956): Gtk-WARNING **: 22:59:32.391: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:59:32.433: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:40129): Gtk-WARNING **: 22:59:33.174: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:59:33.226: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:40146): Gtk-WARNING **: 22:59:33.298: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:59:33.352: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:40215): Gtk-WARNING **: 22:59:34.261: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606057174308	Marionette	INFO	Listening on port 40165
+Gtk-Message: 22:59:34.318: Failed to load module "appmenu-gtk-module"
+1606057174392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1606057216677	Marionette	INFO	Stopped listening on port 40165
+1606057246701	Marionette	INFO	Stopped listening on port 41183
+1606057838787	geckodriver	INFO	Listening on 127.0.0.1:53761
+1606057838794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZakv92"
+
+(firefox:41118): Gtk-WARNING **: 23:10:38.833: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:10:38.878: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:41304): Gtk-WARNING **: 23:10:39.652: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:10:39.697: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:41319): Gtk-WARNING **: 23:10:39.778: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:10:39.860: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41391): Gtk-WARNING **: 23:10:40.700: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606057840722	Marionette	INFO	Listening on port 42343
+Gtk-Message: 23:10:40.760: Failed to load module "appmenu-gtk-module"
+1606057840826	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606057941300	Marionette	INFO	Stopped listening on port 42343
+1606058006428	geckodriver	INFO	Listening on 127.0.0.1:47763
+1606058006433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOLyoAT"
+
+(firefox:41564): Gtk-WARNING **: 23:13:26.462: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:13:26.502: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:41750): Gtk-WARNING **: 23:13:27.263: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:13:27.307: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:41765): Gtk-WARNING **: 23:13:27.377: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:13:27.430: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606058008231	Marionette	INFO	Listening on port 33381
+1606058008266	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:41835): Gtk-WARNING **: 23:13:28.319: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:13:28.374: Failed to load module "appmenu-gtk-module"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606058023022	Marionette	INFO	Stopped listening on port 33381
+1606058052401	geckodriver	INFO	Listening on 127.0.0.1:50739
+1606058052421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileilFqjJ"
+
+(firefox:41945): Gtk-WARNING **: 23:14:12.493: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:14:12.592: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42094): Gtk-WARNING **: 23:14:14.321: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:14:14.385: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42110): Gtk-WARNING **: 23:14:14.577: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:14:14.699: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:42184): Gtk-WARNING **: 23:14:16.193: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:14:16.283: Failed to load module "appmenu-gtk-module"
+1606058056339	Marionette	INFO	Listening on port 34667
+1606058056419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058074836	Marionette	INFO	Stopped listening on port 34667
+1606058270697	geckodriver	INFO	Listening on 127.0.0.1:50447
+1606058270703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerrjuX2"
+
+(firefox:42401): Gtk-WARNING **: 23:17:50.762: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:17:50.808: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42595): Gtk-WARNING **: 23:17:51.681: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:17:51.724: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42610): Gtk-WARNING **: 23:17:51.800: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:17:51.856: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:42684): Gtk-WARNING **: 23:17:53.057: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:17:53.105: Failed to load module "appmenu-gtk-module"
+1606058273121	Marionette	INFO	Listening on port 37525
+1606058273234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058287005	Marionette	INFO	Stopped listening on port 37525
+1606058294619	geckodriver	INFO	Listening on 127.0.0.1:38333
+1606058294624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6uDDM0"
+
+(firefox:42775): Gtk-WARNING **: 23:18:14.653: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:18:14.694: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42965): Gtk-WARNING **: 23:18:15.439: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:18:15.481: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:42982): Gtk-WARNING **: 23:18:15.556: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:18:15.606: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:43050): Gtk-WARNING **: 23:18:16.619: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606058296684	Marionette	INFO	Listening on port 38291
+Gtk-Message: 23:18:16.699: Failed to load module "appmenu-gtk-module"
+1606058296799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058304756	Marionette	INFO	Stopped listening on port 38291
+1606058351024	geckodriver	INFO	Listening on 127.0.0.1:46273
+1606058351030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOy2UkA"
+
+(firefox:43143): Gtk-WARNING **: 23:19:11.059: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:11.099: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:43326): Gtk-WARNING **: 23:19:11.842: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:11.884: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:43341): Gtk-WARNING **: 23:19:11.961: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:12.028: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:43413): Gtk-WARNING **: 23:19:12.991: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:13.059: Failed to load module "appmenu-gtk-module"
+1606058353100	Marionette	INFO	Listening on port 39893
+1606058353166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058372112	Marionette	INFO	Stopped listening on port 39893
+1606058393646	geckodriver	INFO	Listening on 127.0.0.1:56899
+1606058393652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRndPKR"
+
+(firefox:43534): Gtk-WARNING **: 23:19:53.681: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:53.720: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:43700): Gtk-WARNING **: 23:19:54.439: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:54.482: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:43715): Gtk-WARNING **: 23:19:54.550: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:54.603: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:43784): Gtk-WARNING **: 23:19:55.622: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:19:55.669: Failed to load module "appmenu-gtk-module"
+1606058395713	Marionette	INFO	Listening on port 38057
+1606058395790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058422957	Marionette	INFO	Stopped listening on port 38057
+1606058501357	geckodriver	INFO	Listening on 127.0.0.1:53559
+1606058501362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96gT7C"
+
+(firefox:43888): Gtk-WARNING **: 23:21:41.397: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:21:41.441: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44064): Gtk-WARNING **: 23:21:42.172: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:21:42.215: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44079): Gtk-WARNING **: 23:21:42.309: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:21:42.395: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:44152): Gtk-WARNING **: 23:21:43.472: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606058503494	Marionette	INFO	Listening on port 38003
+Gtk-Message: 23:21:43.520: Failed to load module "appmenu-gtk-module"
+1606058503594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058539128	Marionette	INFO	Stopped listening on port 38003
+1606058644762	geckodriver	INFO	Listening on 127.0.0.1:40433
+1606058644768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOqt97F"
+
+(firefox:44339): Gtk-WARNING **: 23:24:04.798: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:04.842: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44520): Gtk-WARNING **: 23:24:05.582: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:05.624: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44535): Gtk-WARNING **: 23:24:05.707: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:05.775: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:44603): Gtk-WARNING **: 23:24:06.810: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:06.852: Failed to load module "appmenu-gtk-module"
+1606058646869	Marionette	INFO	Listening on port 38653
+1606058646909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058659367	Marionette	INFO	Stopped listening on port 38653
+1606058695845	geckodriver	INFO	Listening on 127.0.0.1:42135
+1606058695850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0jIHbR"
+
+(firefox:44678): Gtk-WARNING **: 23:24:55.880: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:55.919: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44850): Gtk-WARNING **: 23:24:56.790: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:56.833: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:44867): Gtk-WARNING **: 23:24:56.908: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:24:56.959: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:44934): Gtk-WARNING **: 23:24:57.968: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606058698011	Marionette	INFO	Listening on port 46873
+Gtk-Message: 23:24:58.037: Failed to load module "appmenu-gtk-module"
+1606058698128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058723051	geckodriver	INFO	Listening on 127.0.0.1:43959
+1606058723056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileICYz3O"
+
+(firefox:45024): Gtk-WARNING **: 23:25:23.087: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:25:23.140: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:45182): Gtk-WARNING **: 23:25:23.918: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:25:23.983: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:45197): Gtk-WARNING **: 23:25:24.063: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:25:24.122: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:45268): Gtk-WARNING **: 23:25:25.135: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606058725180	Marionette	INFO	Listening on port 45665
+Gtk-Message: 23:25:25.208: Failed to load module "appmenu-gtk-module"
+1606058725309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606058781228	Marionette	INFO	Stopped listening on port 45665
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606058812716	Marionette	INFO	Stopped listening on port 46873
+1606059001363	geckodriver	INFO	Listening on 127.0.0.1:38525
+1606059001369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4DgMyR"
+
+(firefox:45603): Gtk-WARNING **: 23:30:01.405: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:30:01.461: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:45789): Gtk-WARNING **: 23:30:02.277: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:30:02.343: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:45804): Gtk-WARNING **: 23:30:02.415: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:30:02.467: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:45878): Gtk-WARNING **: 23:30:03.608: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606059003647	Marionette	INFO	Listening on port 39749
+Gtk-Message: 23:30:03.657: Failed to load module "appmenu-gtk-module"
+1606059003706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606059033092	Marionette	INFO	Stopped listening on port 39749
+1606059563320	geckodriver	INFO	Listening on 127.0.0.1:40405
+1606059563328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOlg7C2"
+
+(firefox:46548): Gtk-WARNING **: 23:39:23.370: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:39:23.442: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:46711): Gtk-WARNING **: 23:39:24.352: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:39:24.400: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:46728): Gtk-WARNING **: 23:39:24.488: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:39:24.551: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:46801): Gtk-WARNING **: 23:39:25.691: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:39:25.767: Failed to load module "appmenu-gtk-module"
+1606059565796	Marionette	INFO	Listening on port 41107
+1606059565926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606059688340	geckodriver	INFO	Listening on 127.0.0.1:57323
+1606059688346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileng6w1w"
+
+(firefox:46895): Gtk-WARNING **: 23:41:28.376: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:41:28.417: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47068): Gtk-WARNING **: 23:41:29.155: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:41:29.198: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47083): Gtk-WARNING **: 23:41:29.277: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:41:29.363: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:47153): Gtk-WARNING **: 23:41:30.394: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:41:30.458: Failed to load module "appmenu-gtk-module"
+1606059690520	Marionette	INFO	Listening on port 33365
+1606059690578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606059708062	Marionette	INFO	Stopped listening on port 33365
+1606059753250	geckodriver	INFO	Listening on 127.0.0.1:59477
+1606059753255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3vGol9"
+
+(firefox:47234): Gtk-WARNING **: 23:42:33.284: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:42:33.325: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47414): Gtk-WARNING **: 23:42:34.078: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:42:34.141: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47432): Gtk-WARNING **: 23:42:34.214: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:42:34.270: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:47501): Gtk-WARNING **: 23:42:35.322: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:42:35.379: Failed to load module "appmenu-gtk-module"
+1606059755430	Marionette	INFO	Listening on port 36379
+1606059755497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2082:28
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://books.toscrape.com/static/oscar/js/bootstrap3/bootstrap.min.js, line 6: NS_ERROR_NOT_INITIALIZED: 
+1606059766002	Marionette	INFO	Stopped listening on port 36379
+1606059923813	geckodriver	INFO	Listening on 127.0.0.1:53241
+1606059923819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3dc55L"
+
+(firefox:47602): Gtk-WARNING **: 23:45:23.849: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:45:23.896: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47778): Gtk-WARNING **: 23:45:24.630: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:45:24.673: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:47793): Gtk-WARNING **: 23:45:24.753: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:45:24.810: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:47862): Gtk-WARNING **: 23:45:25.813: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606059925864	Marionette	INFO	Listening on port 36375
+Gtk-Message: 23:45:25.887: Failed to load module "appmenu-gtk-module"
+1606059926003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606059989892	Marionette	INFO	Stopped listening on port 36375
+1606060016473	geckodriver	INFO	Listening on 127.0.0.1:59037
+1606060016479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek9lTEy"
+
+(firefox:48000): Gtk-WARNING **: 23:46:56.512: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:46:56.553: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:48177): Gtk-WARNING **: 23:46:57.311: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:46:57.381: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:48192): Gtk-WARNING **: 23:46:57.462: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:46:57.537: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:48279): Gtk-WARNING **: 23:46:58.621: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:46:58.669: Failed to load module "appmenu-gtk-module"
+1606060018701	Marionette	INFO	Listening on port 37215
+1606060018809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606060089049	Marionette	INFO	Stopped listening on port 37215
+1606060124909	geckodriver	INFO	Listening on 127.0.0.1:42847
+1606060124915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWjErVd"
+
+(firefox:48425): Gtk-WARNING **: 23:48:44.945: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:48:45.005: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:48602): Gtk-WARNING **: 23:48:45.760: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:48:45.816: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:48617): Gtk-WARNING **: 23:48:45.905: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:48:45.969: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:48691): Gtk-WARNING **: 23:48:46.999: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:48:47.080: Failed to load module "appmenu-gtk-module"
+1606060127154	Marionette	INFO	Listening on port 38879
+1606060127250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606060271254	Marionette	INFO	Stopped listening on port 38879
+1606060642081	geckodriver	INFO	Listening on 127.0.0.1:60731
+1606060642086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLc9wTH"
+
+(firefox:49208): Gtk-WARNING **: 23:57:22.117: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:57:22.168: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:49403): Gtk-WARNING **: 23:57:22.935: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:57:22.979: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:49418): Gtk-WARNING **: 23:57:23.058: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:57:23.123: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:49488): Gtk-WARNING **: 23:57:24.179: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606060644242	Marionette	INFO	Listening on port 46771
+Gtk-Message: 23:57:24.273: Failed to load module "appmenu-gtk-module"
+1606060644398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1606060657441	Marionette	INFO	Stopped listening on port 46771
+1606060695243	geckodriver	INFO	Listening on 127.0.0.1:34887
+1606060695249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD5mUFr"
+
+(firefox:49608): Gtk-WARNING **: 23:58:15.284: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:58:15.324: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:49776): Gtk-WARNING **: 23:58:16.075: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:58:16.123: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:49791): Gtk-WARNING **: 23:58:16.214: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:58:16.279: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:49860): Gtk-WARNING **: 23:58:17.238: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:58:17.308: Failed to load module "appmenu-gtk-module"
+1606060697354	Marionette	INFO	Listening on port 36789
+1606060697475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606060851621	geckodriver	INFO	Listening on 127.0.0.1:59191
+1606060851627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu270Hg"
+
+(firefox:50372): Gtk-WARNING **: 00:00:51.655: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:00:51.699: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:50542): Gtk-WARNING **: 00:00:52.461: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:00:52.533: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:50550): Gtk-WARNING **: 00:00:52.584: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:00:52.656: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:50635): Gtk-WARNING **: 00:00:53.849: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606060853898	Marionette	INFO	Listening on port 35913
+Gtk-Message: 00:00:53.915: Failed to load module "appmenu-gtk-module"
+1606060853968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606060876879	geckodriver	INFO	Listening on 127.0.0.1:42173
+1606060876884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiYooF0"
+
+(firefox:50693): Gtk-WARNING **: 00:01:16.913: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:01:16.954: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:50861): Gtk-WARNING **: 00:01:17.701: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:01:17.761: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:50876): Gtk-WARNING **: 00:01:17.838: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:01:17.919: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:50945): Gtk-WARNING **: 00:01:18.862: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606060878945	Marionette	INFO	Listening on port 40321
+Gtk-Message: 00:01:18.950: Failed to load module "appmenu-gtk-module"
+1606060879044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606060988403	geckodriver	INFO	Listening on 127.0.0.1:36769
+1606060988409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeMTjJw"
+
+(firefox:51176): Gtk-WARNING **: 00:03:08.438: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:08.483: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:51361): Gtk-WARNING **: 00:03:09.217: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:09.260: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:51376): Gtk-WARNING **: 00:03:09.335: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:09.393: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:51446): Gtk-WARNING **: 00:03:10.397: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:10.463: Failed to load module "appmenu-gtk-module"
+1606060990523	Marionette	INFO	Listening on port 38057
+1606060990638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606061002170	Marionette	INFO	Stopped listening on port 38057
+1606061016626	geckodriver	INFO	Listening on 127.0.0.1:45211
+1606061016632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLmhiyc"
+
+(firefox:51526): Gtk-WARNING **: 00:03:36.661: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:36.705: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:51693): Gtk-WARNING **: 00:03:37.448: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:37.490: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:51708): Gtk-WARNING **: 00:03:37.563: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:37.612: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:51779): Gtk-WARNING **: 00:03:38.634: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:03:38.686: Failed to load module "appmenu-gtk-module"
+1606061018702	Marionette	INFO	Listening on port 43717
+1606061018763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606061027599	Marionette	INFO	Stopped listening on port 43717
+1606061046598	geckodriver	INFO	Listening on 127.0.0.1:35637
+1606061046604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevCy1CS"
+
+(firefox:51834): Gtk-WARNING **: 00:04:06.633: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:06.695: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52022): Gtk-WARNING **: 00:04:07.447: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:07.490: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52037): Gtk-WARNING **: 00:04:07.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:07.640: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:52111): Gtk-WARNING **: 00:04:08.592: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:08.672: Failed to load module "appmenu-gtk-module"
+1606061048704	Marionette	INFO	Listening on port 46215
+1606061048745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606061053568	Marionette	INFO	Stopped listening on port 46215
+1606061067414	geckodriver	INFO	Listening on 127.0.0.1:47885
+1606061067419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeykxzT"
+
+(firefox:52175): Gtk-WARNING **: 00:04:27.447: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:27.487: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52340): Gtk-WARNING **: 00:04:28.228: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:28.281: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52355): Gtk-WARNING **: 00:04:28.356: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:28.422: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:52429): Gtk-WARNING **: 00:04:29.436: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606061069473	Marionette	INFO	Listening on port 37299
+Gtk-Message: 00:04:29.510: Failed to load module "appmenu-gtk-module"
+1606061069566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606061080207	Marionette	INFO	Stopped listening on port 37299
+1606061093735	geckodriver	INFO	Listening on 127.0.0.1:56175
+1606061093741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJWjs6D"
+
+(firefox:52509): Gtk-WARNING **: 00:04:53.769: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:53.810: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52683): Gtk-WARNING **: 00:04:54.546: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:54.588: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:52698): Gtk-WARNING **: 00:04:54.655: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:54.713: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:52773): Gtk-WARNING **: 00:04:55.738: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:04:55.793: Failed to load module "appmenu-gtk-module"
+1606061095820	Marionette	INFO	Listening on port 36549
+1606061095881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606061259309	Marionette	INFO	Stopped listening on port 36549
+1606061337482	geckodriver	INFO	Listening on 127.0.0.1:49127
+1606061337491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWPEyXt"
+
+(firefox:53001): Gtk-WARNING **: 00:08:57.525: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:08:57.565: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:53179): Gtk-WARNING **: 00:08:58.335: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:08:58.378: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:53196): Gtk-WARNING **: 00:08:58.469: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:08:58.539: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:53267): Gtk-WARNING **: 00:08:59.474: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:08:59.536: Failed to load module "appmenu-gtk-module"
+1606061339611	Marionette	INFO	Listening on port 33485
+1606061339724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0004,name=PIdleScheduler::Msg_RequestIdleTime) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606061469755	geckodriver	INFO	Listening on 127.0.0.1:51269
+1606061469762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5TkCJ9"
+
+(firefox:53389): Gtk-WARNING **: 00:11:09.794: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:11:09.859: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:53564): Gtk-WARNING **: 00:11:10.591: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:11:10.633: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:53579): Gtk-WARNING **: 00:11:10.703: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:11:10.762: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:53648): Gtk-WARNING **: 00:11:11.789: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:11:11.866: Failed to load module "appmenu-gtk-module"
+1606061471922	Marionette	INFO	Listening on port 38373
+1606061472001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606061938564	Marionette	INFO	Stopped listening on port 38373
+1606061951998	geckodriver	INFO	Listening on 127.0.0.1:34901
+1606061952003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOBITdH"
+
+(firefox:54048): Gtk-WARNING **: 00:19:12.111: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:19:12.177: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:54226): Gtk-WARNING **: 00:19:13.140: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:19:13.184: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:54243): Gtk-WARNING **: 00:19:13.275: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:19:13.325: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:54314): Gtk-WARNING **: 00:19:14.385: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:19:14.452: Failed to load module "appmenu-gtk-module"
+1606061954498	Marionette	INFO	Listening on port 45447
+1606061954544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606062255802	Marionette	INFO	Stopped listening on port 45447
+1606062267884	Marionette	INFO	Stopped listening on port 41107
+1606111756734	geckodriver	INFO	Listening on 127.0.0.1:52749
+1606111757735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQECk9K"
+
+(firefox:2034): Gtk-WARNING **: 14:09:17.763: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:09:17.822: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:2202): Gtk-WARNING **: 14:09:18.576: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:09:18.617: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:2219): Gtk-WARNING **: 14:09:18.695: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:09:18.751: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2293): Gtk-WARNING **: 14:09:19.614: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606111759626	Marionette	INFO	Listening on port 37043
+Gtk-Message: 14:09:19.667: Failed to load module "appmenu-gtk-module"
+1606111759676	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606112251015	Marionette	INFO	Stopped listening on port 37043
+1606112432988	geckodriver	INFO	Listening on 127.0.0.1:50485
+1606112432997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepgyNnp"
+
+(firefox:2665): Gtk-WARNING **: 14:20:33.053: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:20:33.136: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:2843): Gtk-WARNING **: 14:20:34.318: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:20:34.394: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:2858): Gtk-WARNING **: 14:20:34.508: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:20:34.602: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2937): Gtk-WARNING **: 14:20:35.984: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:20:36.063: Failed to load module "appmenu-gtk-module"
+1606112436066	Marionette	INFO	Listening on port 41681
+1606112436165	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606114628467	geckodriver	INFO	Listening on 127.0.0.1:51901
+1606114628472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW7egIp"
+
+(firefox:3675): Gtk-WARNING **: 14:57:08.502: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:57:08.549: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:3875): Gtk-WARNING **: 14:57:09.387: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:57:09.438: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:3890): Gtk-WARNING **: 14:57:09.512: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:57:09.582: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3967): Gtk-WARNING **: 14:57:10.552: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1606114630595	Marionette	INFO	Listening on port 45683
+Gtk-Message: 14:57:10.609: Failed to load module "appmenu-gtk-module"
+1606114630703	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1606114632670	Marionette	INFO	Stopped listening on port 45683
+
+(/usr/lib/firefox/firefox:4044): Gtk-WARNING **: 14:58:00.455: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 14:58:00.509: Failed to load module "appmenu-gtk-module"
+1606114682391	Marionette	INFO	Stopped listening on port 41681
+1606115017523	geckodriver	INFO	Listening on 127.0.0.1:47677
+1606115017529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5fj3qK"
+
+(firefox:4629): Gtk-WARNING **: 15:03:37.565: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 15:03:37.618: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:4804): Gtk-WARNING **: 15:03:38.521: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 15:03:38.586: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:4812): Gtk-WARNING **: 15:03:38.626: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 15:03:38.709: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4902): Gtk-WARNING **: 15:03:40.072: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 15:03:40.142: Failed to load module "appmenu-gtk-module"
+1606115020143	Marionette	INFO	Listening on port 33049
+1606115020271	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606115027729	Marionette	INFO	Stopped listening on port 33049
+1606115187958	geckodriver	INFO	Listening on 127.0.0.1:53401
+1606115187965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepTzKDc"
+*** You are running in headless mode.
+
+(firefox:5070): Gtk-WARNING **: 15:06:27.999: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606115190256	Marionette	INFO	Listening on port 35159
+1606115190312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

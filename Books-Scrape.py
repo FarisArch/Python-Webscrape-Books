@@ -10,9 +10,9 @@ start = 1
 alldetails = []
 links = []
 
-driver = webdriver.Firefox(options=options,executable_path="/home/faris/github/Python-Webscrape-Books/geckodriver")
+driver = webdriver.Firefox(options=options ,executable_path="/home/faris/github/Python-Webscrape-Books/geckodriver")
 
-for i in range(1,3):
+for i in range(1,2):
     number = str(i)
     url = 'https://books.toscrape.com/catalogue/page-'+number+'.html'
     website = driver.get(url)
@@ -30,11 +30,13 @@ for i in range(1,3):
         nameofproduct = driver.find_element_by_xpath("/html/body/div/div/div[2]/div[2]/article/div[1]/div[2]/h1").text
         priceofproduct = driver.find_element_by_xpath("/html/body/div/div/div[2]/div[2]/article/div[1]/div[2]/p[1]").text
         available = driver.find_element_by_xpath("/html/body/div/div/div[2]/div[2]/article/div[1]/div[2]/p[2]").text
+        genre = driver.find_element_by_xpath("/html/body/div/div/ul/li[3]/a").text
         details = {
         'Book Name' : nameofproduct,
         'Price': priceofproduct,
         'Instock' : available,
-        'Link' : link
+        'Link' : link,
+        'Genre': genre
         }
         alldetails.append(details)
 
